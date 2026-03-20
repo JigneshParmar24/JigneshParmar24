@@ -1,7 +1,2 @@
-### Jignesh Parmar
-
-**See my work:**
-https://jignesh-parmar-portfolio.vercel.app/
-
-**Reach me at:**
-jigneshparmar1024@gmail.com
+**Work** → https://jignesh-parmar-portfolio.vercel.app/  
+**Contact** → jigneshparmar1024@gmail.com
