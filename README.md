@@ -1,4 +1,4 @@
-Work → [Portfolio](https://jignesh-parmar-portfolio.vercel.app/)
+See my work → [Portfolio](https://jignesh-parmar-portfolio.vercel.app/)
 
 
-Contact → jigneshparmar1024@gmail.com
+Reach me → jigneshparmar1024@gmail.com
